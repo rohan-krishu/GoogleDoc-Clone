@@ -12,7 +12,7 @@ export default function Navbar() {
             size={40}
           />
           <div className={styles.navbar_menu}>
-            <div className={styles.heading}>Untitled document</div>
+            <div className={styles.heading}>Google Doc Clone by ROHAN RATHI</div>
             <div className={styles.menu}>
               <p>File</p>
               <p>Edit</p>

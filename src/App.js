@@ -1,6 +1,6 @@
 import styles from './App.module.css';
-import Navbar from './components/Navbar';
-import TextEditor from './components/TextEditor';
+import Navbar from './Components/Navbar/Navbar';
+import TextEditor from './Components/TextEditor/TextEditor';
 
 function App() {
   return (
